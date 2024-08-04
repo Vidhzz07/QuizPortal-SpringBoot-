@@ -5,7 +5,7 @@
 ## Features
 
 - **User Authentication**: Secure sign-in and sign-out using JWT tokens.
-- **Code Storage**: Save and retrieve previously compiled code.
+- **Code Storage**: Save and retrieve questions and answers.
 - **Caching**: Improve performance with Redis caching.
 - **Global Exception Handling**: Handle exceptions globally with a custom exception handler.
 - **Logging**: Use SLF4J for logging application events and errors.
